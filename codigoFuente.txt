@@ -1,2 +1,4 @@
 Bienvenidos a Git Hub
 Fernando Flores
+
+- Resido en Lima - SJL
